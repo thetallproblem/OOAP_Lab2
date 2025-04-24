@@ -1,0 +1,10 @@
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\bin\Debug\OOAPLab2_WithPattern.exe.config
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\bin\Debug\OOAPLab2_WithPattern.exe
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\bin\Debug\OOAPLab2_WithPattern.pdb
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.csproj.AssemblyReference.cache
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.Form1.resources
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.Properties.Resources.resources
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.csproj.GenerateResource.cache
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.csproj.CoreCompileInputs.cache
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.exe
+C:\Users\radyg\source\repos\OOAPLab2_WithPattern\obj\Debug\OOAPLab2_WithPattern.pdb
